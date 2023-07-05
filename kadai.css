@@ -72,7 +72,7 @@ footer {
   }
   
   .step-box{
-    width: 100%;
+    width: 90%;
   }
   
 }
@@ -85,7 +85,12 @@ footer {
   }
   
   .step-box{
-    width: 100%;
+    width: 90%;
+    margin: 20px auto;
+  }
+    
+    .step-box:last-child {
+  margin: 20px auto;
   }
   
 }
@@ -98,7 +103,11 @@ footer {
   }
   
   .step-box{
-    width: 100%;
+    width: 90%;
+    margin: 20px auto;
   }
-  
+    
+  .step-box:last-child {
+  margin: 20px auto;
+  }
 }
